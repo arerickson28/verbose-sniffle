@@ -1,2 +1,2 @@
 # verbose-sniffle
-Another silly description
+Placeholder repository for exploring GitHub webpages
